@@ -25,7 +25,21 @@ Making steering system from scratch. To make it get a 7 inch long 1 inch thick f
 Iam going to drill a hole through the 2 inch parts and put a big bolt in those.Before you put the bolt put a 1 inch steel pipe which is 3 inches long.
 Here is the image of spindle-
 
-![spindle](https://github.com/user-attachments/assets/7bd3e7c2-1771-499f-adb3-a3ac04ba71b3)
+![spindle](https://github.com/user-attachments/assets/7bd3e7c2-1771-499f-adb3-a3ac04ba71b3
+Then weld a rod and a square pipe at 90 degrees.On the square pipe, weld a bolt facing upwards.Then after that,put a tie rod end on the welded bolt.Next,weld a steel rod to the tie rod end.
+
+![completespindle](https://github.com/user-attachments/assets/71497053-b3db-4711-a225-b80081c563cb)
+Do the same for both sides and copy this diagram.
+
+![steeringsystem](https://github.com/user-attachments/assets/f4368217-a089-4b7e-a919-08dd8c491675)
+
+![image](https://github.com/user-attachments/assets/110a4da9-a003-41ff-a917-3337d25ccb23)
+
+references:
+https://www.youtube.com/watch?v=q2Xr2alYklE
+https://www.youtube.com/watch?app=desktop&v=573KfFbvg5A
+https://www.instructables.com/Intro-44/
+
 
 
 
