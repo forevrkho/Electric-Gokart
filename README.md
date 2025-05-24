@@ -22,3 +22,10 @@ Making steering system from scratch. To make it get a 7 inch long 1 inch thick f
 
 ![flatbar](https://github.com/user-attachments/assets/a3cba9f8-bdfe-433d-bfff-c479f340fe23)
 
+Iam going to drill a hole through the 2 inch parts and put a big bolt in those.Before you put the bolt put a 1 inch steel pipe which is 3 inches long.
+Here is the image of spindle-
+
+![spindle](https://github.com/user-attachments/assets/7bd3e7c2-1771-499f-adb3-a3ac04ba71b3)
+
+
+
