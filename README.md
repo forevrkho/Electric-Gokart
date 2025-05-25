@@ -63,6 +63,10 @@ Im going to be using Yalu foot pedal accelerator.
 Seat:
 https://www.amazon.in/CALANDISTM-Replacement-Accessories-Go-Karts-Recreational/dp/B0F18T8WR4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AH0KEO6T9U8SH
 
+
+The 48V LiFePO4 battery drives the controller, which receives input from the accelerate pedal and puts the correct amount of power to the 1000W BLDC motor to regulate the gokarts speed.
+
+
 references:
 https://www.youtube.com/watch?v=q2Xr2alYklE
 https://www.youtube.com/watch?app=desktop&v=573KfFbvg5A
