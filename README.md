@@ -1,13 +1,14 @@
 # Electric-Gokart
 By-@forevrkho
 This is an electric Gokart made from scratch.
-So, this is basically powered by a battery as you know.
+
+IF you are From highway, this is my first hardware project.
 
 ![Gokart Chassis](https://github.com/user-attachments/assets/6bc0aa68-4703-477e-aa0e-e66fc414e696)
 
 ![gokart](https://github.com/user-attachments/assets/c73a678a-3193-4904-a5fa-24b16ba28781)
 
-BOM-https://1drv.ms/x/c/fdaba023a17e640d/EZ6Yn9u4eGJAj9u3CJCQzqEB1YBNHVDiWHWjI0bVcDJNzA?e=YMk7vX
+[BOM](https://1drv.ms/x/c/fdaba023a17e640d/EZ6Yn9u4eGJAj9u3CJCQzqEB1YBNHVDiWHWjI0bVcDJNzA?e=YMk7vX)
 
 
 Rear Axle:
@@ -35,11 +36,34 @@ Do the same for both sides and copy this diagram.
 
 ![image](https://github.com/user-attachments/assets/110a4da9-a003-41ff-a917-3337d25ccb23)
 
+Im going to be using the 48 v 12 AH LiFePO BATTERY with a BMS.
+![battery](https://github.com/user-attachments/assets/b041be40-2ad3-41e8-ab82-f899b9b3f8c7)
+
+Im going to use the Yalu 48V 1000W  MOTOR.
+
+![image](https://github.com/user-attachments/assets/f5166f6b-c6e7-4e49-91c4-7b007b61438a)
+
+For the motor controller,this the one im using-BLDC 48v motor 1000w controller
+![image](https://github.com/user-attachments/assets/2aea07d6-91d9-4a28-a293-66a720d3876d)
+
+Wheels and Rim:
+
+The front wheels of my gokart will be 10 inches in diameter and back wheels 11 inches
+
+
+Brake:
+
+Im using hydraulic brake system.
+![image](https://github.com/user-attachments/assets/0a6b7b6a-fe9b-4ded-a9fe-10379c91d118)
+
+Accelerator:
+Im going to be using Yalu foot pedal accelerator.
+![image](https://github.com/user-attachments/assets/3d94fc75-c705-4155-b626-6f28ccafb4bf)
+
+Seat:
+https://www.amazon.in/CALANDISTM-Replacement-Accessories-Go-Karts-Recreational/dp/B0F18T8WR4?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=AH0KEO6T9U8SH
+
 references:
 https://www.youtube.com/watch?v=q2Xr2alYklE
 https://www.youtube.com/watch?app=desktop&v=573KfFbvg5A
 https://www.instructables.com/Intro-44/
-
-
-
-
