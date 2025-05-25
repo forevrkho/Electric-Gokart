@@ -9,7 +9,7 @@ IF you are From highway, this is my first hardware project.
 ![gokart](https://github.com/user-attachments/assets/c73a678a-3193-4904-a5fa-24b16ba28781)
 
 [BOM](https://1drv.ms/x/c/fdaba023a17e640d/EZ6Yn9u4eGJAj9u3CJCQzqEB1YBNHVDiWHWjI0bVcDJNzA?e=YMk7vX)
-
+[3DMODEL](https://a360.co/43ItHN3)
 
 Rear Axle:
 Using 1 inch rod and welding parts to it.
