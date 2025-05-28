@@ -1,7 +1,7 @@
 ---
 title: "Electric Go Kart"
 author: "@forevrkho"
-description: "My "
+description: "My electric Go Kart :] "
 created_at: "2025-05-23"
 ---
 
