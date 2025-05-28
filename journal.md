@@ -20,9 +20,15 @@ created_at: "2025-05-23"
 
 
 ### Day 3 : 2025-05-25
-- The front axle of the gokart.Im making the spindle from scratch.Im using a 1 inch flatbar to make it.Im going to shape the flatbar into a C shape and drill a hole through the top to bottom.Afer that im using a m12 bolt through the drilled hole.Then im welding an ms square pipe to the m12 bolt.Below the square pipe im welding a cylinder shaped ms pipe so that the wheels can be joined.And im going to do the same thing for other side.
+- The front axle of the gokart.Im making the spindle from scratch.Im using a 1 inch flatbar to make it.Im going to shape the flatbar into a C shape and drill a hole through the top to bottom.After that im using a m12 bolt through the drilled hole.Then im welding an ms square pipe to the m12 bolt.Below the square pipe im welding a cylinder shaped ms pipe so that the wheels can be joined.And im going to do the same thing for other side.
+- For Steering Im using an m12 bolt which will be upside down.To the bolt im welding a rod end to the bolt and to that im welding an ms circle pipe thats going to be 227 millimeters long.It will be welded to an m12 bolt which has an ms circle pipe on it.The circle pipe will be welded on the bolt.And a knuckle joint will connected to
 
 - 
-
 ### Day 4 :2025-05-26
-i finished the 3d model.The 3d model was completed and i was done with the modelling.
+i finished the 3d model.The 3d model was completed and i was done with the modelling. Also the model was finished. At 2025-05-26 The model was fully done.
+
+
+
+
+
+
