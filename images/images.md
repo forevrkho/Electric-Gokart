@@ -1,0 +1,11 @@
+images for gokart
+![image](https://github.com/user-attachments/assets/215a84e4-8a92-4873-b810-797c42686611)
+![image](https://github.com/user-attachments/assets/8d55501b-cd68-47ef-b2f1-45517f95f0d8)
+![image](https://github.com/user-attachments/assets/81d6cc81-d475-49b5-af74-f00e2d248657)
+![image](https://github.com/user-attachments/assets/1d160c43-d378-4490-b402-85035c3633da)
+![image](https://github.com/user-attachments/assets/80f196a7-f3d7-4de9-bfe4-75e3ade23c27)
+![image](https://github.com/user-attachments/assets/b88f9332-ca32-4f24-a500-6ca4e1904ab2)
+![image](https://github.com/user-attachments/assets/cab14615-b540-4d49-9b0c-d4b6642faf38)
+![image](https://github.com/user-attachments/assets/04264b64-f1d0-4f88-b426-d3d7de57dc31)
+![image](https://github.com/user-attachments/assets/7d8b06fa-af8c-4ff6-bf79-fa0f27098eed)
+![Uploading image.png…]()
