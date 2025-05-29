@@ -2,6 +2,8 @@
 By-@forevrkho
 This is an electric Gokart made from scratch.
 
+[guide](https://1drv.ms/p/c/fdaba023a17e640d/EUwONgj3KedHlMaT3FZ6IcIBUmWilRyt1uQcIJ2a6449TA?e=O6JL0X)
+
 IF you are From highway, this is my first hardware project.
 
 ![Gokart Chassis](https://github.com/user-attachments/assets/6bc0aa68-4703-477e-aa0e-e66fc414e696)
