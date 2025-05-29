@@ -17,3 +17,6 @@
 | Steering Wheel                     | 1             | 
 | Pedal                              | 1             | 
 | Steel Rod (1/2" and 1")            | 300mm total   | 
+
+
+[excel](https://1drv.ms/x/c/fdaba023a17e640d/EZ6Yn9u4eGJAj9u3CJCQzqEB1YBNHVDiWHWjI0bVcDJNzA?e=5KoOxu)
