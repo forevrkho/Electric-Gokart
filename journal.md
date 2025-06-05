@@ -30,6 +30,7 @@ created_at: "2025-05-23"
 ### Day 4 :2025-05-26
 i finished the 3d model.The 3d model was completed and i was done with the modelling. Also the model was finished. At 2025-05-26 The model was fully done.
 
+![image](https://github.com/user-attachments/assets/9ba7283f-db7a-4617-995b-4ad2f37920e3)
 
 
 
