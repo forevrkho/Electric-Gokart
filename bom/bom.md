@@ -6,7 +6,7 @@
 | Yalu 48V 1000W Brushed Motor          | 1             | 
 | MS Square Pipe 1" x 1"             | 12 m          | 
 | 1" Round Pipe                      | 1 m           | 
-|48V 1000W BLDC Motor Controller     | 1             | 
+|48V 1000W Brushed Motor Controller     | 1             | 
 | Wheel and Rim                       | 4             |
 | Brake                              | 1             | 
 | Go-Kart Seat                       | 1             | 
