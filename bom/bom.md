@@ -3,7 +3,7 @@
 | Component                          | Quantity      |
 |------------------------------------|---------------|
 | 48V 12Ah LiFePO4 Battery           | 1             |
-| Yalu 48V 1000W BLDC Motor          | 1             | 
+| Yalu 48V 1000W Brushed Motor          | 1             | 
 | MS Square Pipe 1" x 1"             | 12 m          | 
 | 1" Round Pipe                      | 1 m           | 
 |48V 1000W BLDC Motor Controller     | 1             | 
